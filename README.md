@@ -4,6 +4,8 @@ Stack: React, TypeScript, Styled components
 
 Live: https://cubaa-room-homepage.netlify.app/
 
+Design files for mobile & desktop layouts from frontendmentor.io
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,6 +1,7 @@
 # Info
 
 Stack: React, TypeScript, Styled components
+
 Live: https://cubaa-room-homepage.netlify.app/
 
 # Getting Started with Create React App

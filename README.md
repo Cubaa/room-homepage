@@ -1,4 +1,4 @@
-# Info
+# Room homepage
 
 Stack: React, TypeScript, Styled components
 
